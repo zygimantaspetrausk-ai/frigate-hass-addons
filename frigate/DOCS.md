@@ -1,4 +1,4 @@
-You must create a config file at `/addon_configs/ccab4aaf_frigate/config.yml` ([click here to learn more on how to access this directory](https://docs.frigate.video/configuration/#accessing-add-on-config-dir)).
+You must create a config file at `/addon_configs/508911d5_frigate/config.yml` ([click here to learn more on how to access this directory](https://docs.frigate.video/configuration/#accessing-add-on-config-dir)).
 
 Frigate brings realtime object detection to any camera video feed supported by FFmpeg. More detailed docs are maintained [here](https://docs.frigate.video).
 
